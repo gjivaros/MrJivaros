@@ -3,7 +3,7 @@
 
 - # About me
 
-## <p align="center">The diversity of my professional background has given me great adaptability and autonomy. Invest in each project humanely and technically. Development fascinates me and responds to my constant thirst for learning.<p/>
+## <p align="center">The diversity of my professional background has given me great adaptability and autonomy. Invest in each project humanly and technically. Development fascinates me and responds to my constant thirst for learning.<p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjivaros&label=Profile%20views&color=0e75b6&style=flat" alt="mrjivaros" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjivaros" alt="mrjivaros" /></a> </p>
