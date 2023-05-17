@@ -1,9 +1,9 @@
-- # 👋 Hi, I’m Jivaros GBETO
-<img src = "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=cover&w=2812&q=50" width = "100%" height= "300px" align="center">
+# 👋 Hi, I’m Jivaros GBETO
 
-- # About me
 
-## <p align="center">The diversity of my professional background has given me great adaptability and autonomy. Invest in each project humanly and technically. Development fascinates me and responds to my constant thirst for learning.<p/>
+ ### About me
+
+<p align="center">I'm Jivaros GBETO, a software engineer working with a lot of modern technology (React, Node, Python , NestJs ...) and who likes to build high quality products but also loves code.🤝 I am open to any kind of technical collaboration or any interesting product.<p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjivaros&label=Profile%20views&color=0e75b6&style=flat" alt="mrjivaros" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjivaros" alt="mrjivaros" /></a> </p>
